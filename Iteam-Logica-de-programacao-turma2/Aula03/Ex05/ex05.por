@@ -6,7 +6,7 @@ Algoritmo "salário mensal"
 // Data atual  : 03/08/2026
 Var
 // Seção de Declarações das variáveis nome
-salario, horas: inteiro
+horas: inteiro
 
 
 Inicio
@@ -14,6 +14,6 @@ Inicio
    escreval("Digite as horas trabalhadas: ")
    leia(horas)
    salario <- horas*40
-   escreval("Seu salário é: R$", salario)
+   escreval("Seu salário é: R$ ", salario)
      
 Fimalgoritmo
