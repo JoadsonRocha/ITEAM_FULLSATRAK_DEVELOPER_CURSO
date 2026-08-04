@@ -15,7 +15,7 @@ Inicio
    leia(base)
    escreval("digite a altura: ")
    leia(altura)
-    area <- base*altura
+    area <- (base*altura)/2
     escreval("A area do Triângulo é: ", area)
      
 Fimalgoritmo
