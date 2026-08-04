@@ -1,6 +1,6 @@
 Algoritmo "Dobro e Triplo"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professora   :  
+// Professora   :  Helida Batista
 // Descrição   : Crie um algoritmo que leia um número inteiro e exiba o seu dobro
 // Autor(a)    : Joadson Rocha 
 // Data atual  : 03/08/2026
