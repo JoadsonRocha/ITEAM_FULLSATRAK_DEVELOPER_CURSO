@@ -6,16 +6,16 @@ Algoritmo "combustível de um carro"
 // Data atual  : 03/08/2026
 Var
 // Seção de Declarações das variáveis nome
-distancia, litros: inteiro
+distancia, litros: real
 
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
-   escreval("Qual a distancia percorrida? ")
+   escreval("Qual a distancia percorrida km? ")
    leia(distancia)
    escreval("quantos litros gastos? ")
-   leia("litros")
+   leia(litros)
    consumo <- distancia/litros
-   escreval("Seu consumo é: ",consumo," lt")
+   escreval("sua distancia percorrida é km: ",distancia," e Seu consumo é: ",consumo,"lt por km")
      
 Fimalgoritmo
