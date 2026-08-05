@@ -22,7 +22,7 @@ quinze <- compra * 0.15
       escreval("Não tem desconto, vai comprar mais")
    senao
       se (compra > 100 e compra <= 300) entao
-         escreval("sua compra foi no valor de: ",compra, "seu desconto é de 5%, no valor: R$" ,cinco, " e o valor final ficou: R$" , compra - cinco)
+         escreval("sua compra foi no valor de: ",compra, "R$ seu desconto é de 5%, no valor:" ,cinco, "R$ e o valor final ficou: R$" , compra - cinco)
       senao
          se (compra > 300 e compra <= 600) entao
             escreval("sua compra foi no valor de: ",compra,", seu desconto é de 10%, no valor: R$" ,dez, " e o valor final ficou: R$" , compra - dez)
