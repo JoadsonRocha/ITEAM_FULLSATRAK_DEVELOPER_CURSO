@@ -6,11 +6,17 @@ Algoritmo " produto da compra de um cliente"
 // Data atual  : 06/08/2026
 Var
 // Seção de Declarações das variáveis nome
-
+    produto, total: real
+    
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
     
-   
+    total <- 0
+    Escreval("Digite o valor do produto (0 para encerrar): ")
+    Leia(produto)
+
+    enquanto  produto <> 0 faca
+        
  
  
 
