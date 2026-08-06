@@ -1,4 +1,4 @@
-Algoritmo "DESAFIO"
+Algoritmo "Solicite ao usuário um número inteiro"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professora   :  Helida Batista
 // Descrição   : Solicite ao usuário um número inteiro, repita a leitura até que seja informado um número maior que zero. Depois exiba o número digitado. Estrutura: REPITA.
