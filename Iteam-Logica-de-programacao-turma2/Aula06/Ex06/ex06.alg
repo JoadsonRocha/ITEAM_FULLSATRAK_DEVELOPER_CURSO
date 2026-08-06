@@ -16,8 +16,10 @@ Inicio
     Leia(produto)
 
     enquanto  produto <> 0 faca
-        
- 
- 
+        total <- produto
+        Escreval("Digite o valor do produto (0 para encerrar): ")
+        Leia(produto)
+        fimenquanto
+        escreval("O valor total da compra é: ", total) 
 
 Fimalgoritmo
